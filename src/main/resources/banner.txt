@@ -1,0 +1,2 @@
+Application Version: ${DemoProject.version}
+Spring Boot Version: ${spring-boot.version}
